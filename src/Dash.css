@@ -1,0 +1,49 @@
+.paddingall{
+    padding: 10px 10px 10px 10px;
+    color: aliceblue;
+}
+
+.padding20{
+    padding: 20px 20px 20px 20px;
+    color: aliceblue;
+}
+
+.netprofit{
+    font-size: 14px;
+}
+
+.netprofitamount{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.netprofitpercent{
+    font-size: 14px;
+    color: rgb(67, 239, 67);
+}
+
+.acc-icon{
+    margin:5px 15px 10px 10px;
+    color: rgb(53,134,148);
+}
+
+.icon-blue{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.gradient{
+    background: rgb(77, 65, 135);
+    background: linear-gradient(158deg, rgba(98,190,96,1) 0%, rgba(30,47,141,1) 100%);
+}
+
+.gradientgreen{
+    background: rgb(53,134,148);
+    background: linear-gradient(158deg, rgba(53,134,148,1) 0%, rgba(98,190,96,1) 100%);
+}
+
+.bgcolor{
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg, rgba(224,224,224,1) 0%, rgba(233,237,254,1) 100%);
+}
