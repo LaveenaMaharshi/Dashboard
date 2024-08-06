@@ -74,7 +74,6 @@ export default function SideNav() {
   const theme = useTheme();
 //   const [open, setOpen] = React.useState(false);
   const navigate= useNavigate();
-  const updateOpen= useAppStore((state)=>state.updateOpen);
   const open= useAppStore((state)=>state.dopen)
 
 

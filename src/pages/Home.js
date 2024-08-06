@@ -2,7 +2,6 @@ import React from "react";
 import SideNav from "../components/SideNav";
 import AccordionHome from "../components/AccordionHome";
 import Box from "@mui/material/Box";
-import { styled } from "@mui/material/styles";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
@@ -10,7 +9,6 @@ import Typography from "@mui/material/Typography";
 import Stack from '@mui/material/Stack';
 import ArrowDropUpIcon from '@mui/icons-material/ArrowDropUp';
 import Navbar from "../components/Navbar";
-import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 import '../Dash.css'
 import ActivityChart from "../components/ActivityChart";
 import Analyticsvalue from "../components/Analyticsvalue";
